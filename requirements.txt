@@ -1,0 +1,7 @@
+mujoco==2.3.6
+mujoco-python-viewer
+torch==1.10.0
+tqdm==4.64.1
+numpy==1.19.5
+openai
+scipy
