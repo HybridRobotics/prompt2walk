@@ -1,6 +1,6 @@
 # Prompt a Robot to Walk with Large Language Models
 
-This repository contains the code for our paper [Prompt a Robot to Walk with Large Language Models]() by [Yen-Jen Wang](https://wangyenjen.github.io/), [Bike Zhang](https://bikezhang106.github.io/), [Jianyu Chen](http://people.iiis.tsinghua.edu.cn/~jychen/), and [Koushil Sreenath](https://hybrid-robotics.berkeley.edu/koushil/).
+This repository contains the code for our paper [Prompt a Robot to Walk with Large Language Models](https://arxiv.org/abs/2309.09969) by [Yen-Jen Wang](https://wangyenjen.github.io/), [Bike Zhang](https://bikezhang106.github.io/), [Jianyu Chen](http://people.iiis.tsinghua.edu.cn/~jychen/), and [Koushil Sreenath](https://hybrid-robotics.berkeley.edu/koushil/).
 
 ## Overview
 <img src="figs/demo.png" alt="demo" width="600" />
@@ -51,4 +51,12 @@ Please read our paper! If you have further questions, please feel free to contac
 
 Please cite our paper if you use this code or parts of it:
 ```
+@misc{wang2023prompt,
+      title={Prompt a Robot to Walk with Large Language Models}, 
+      author={Yen-Jen Wang and Bike Zhang and Jianyu Chen and Koushil Sreenath},
+      year={2023},
+      eprint={2309.09969},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO}
+}
 ```
