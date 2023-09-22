@@ -26,7 +26,7 @@ pip install -r requirements.txt
 
 ### Configuration
 
-Please fill the `openai.api_key` in `llm.py`.
+Please fill the `openai.api_key` in `src/llm.py`.
 
 ### Collect the trajectory from the LLM controller
 
@@ -51,12 +51,10 @@ Please read our paper! If you have further questions, please feel free to contac
 
 Please cite our paper if you use this code or parts of it:
 ```
-@misc{wang2023prompt,
-      title={Prompt a Robot to Walk with Large Language Models}, 
-      author={Yen-Jen Wang and Bike Zhang and Jianyu Chen and Koushil Sreenath},
-      year={2023},
-      eprint={2309.09969},
-      archivePrefix={arXiv},
-      primaryClass={cs.RO}
+@article{wang2023prompt,
+  title={Prompt a Robot to Walk with Large Language Models},
+  author={Wang, Yen-Jen and Zhang, Bike and Chen, Jianyu and Sreenath, Koushil},
+  journal={arXiv preprint arXiv:2309.09969},
+  year={2023}
 }
 ```
